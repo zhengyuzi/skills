@@ -1,0 +1,12 @@
+[submodule "vendor/antfu"]
+	path = vendor/antfu
+	url = https://github.com/antfu/skills
+[submodule "vendor/vuejs-ai"]
+	path = vendor/vuejs-ai
+	url = https://github.com/vuejs-ai/skills
+[submodule "vendor/vueuse"]
+	path = vendor/vueuse
+	url = https://github.com/vueuse/vueuse
+[submodule "sources/vue"]
+	path = sources/vue
+	url = https://github.com/vuejs/docs
