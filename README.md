@@ -5,13 +5,13 @@ A collection of Agent Skills.
 ## Installation
 
 ```bash
-pnpx skills add antfu/skills --skill='*'
+pnpx skills add zhengyuzi/skills --skill='*'
 ```
 
 or to install all of them globally:
 
 ```bash
-pnpx skills add antfu/skills --skill='*' -g
+pnpx skills add zhengyuzi/skills --skill='*' -g
 ```
 
 Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills).
