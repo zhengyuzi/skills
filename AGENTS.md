@@ -130,6 +130,21 @@ You don't need to do anything about them unless being asked.
 
 **Note:** Do NOT modify synced skills manually. Changes should be contributed upstream to the vendor project.
 
+### Syncing README.md
+
+After adding, updating, or removing skills in the `skills/` folder, always synchronize the Skills table in `README.md`:
+
+1. **List** all directories in `skills/` folder - the directory name is the Skill name
+2. **Read** the corresponding `SKILL.md` file in each skill directory to get the `description` from frontmatter
+3. **Update** the Skills table in `README.md` with the Skill name (linked) and Description
+4. **Append** new skills to the end of the table (don't reorder existing entries)
+
+```markdown
+| Skill | Description |
+|-------|-------------|
+| [skill-name](skills/skill-name) | Description from SKILL.md frontmatter |
+```
+
 ## File Formats
 
 ### `SKILL.md`
