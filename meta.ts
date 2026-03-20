@@ -40,6 +40,13 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'vueuse-functions': 'vueuse-functions',
     },
   },
+  'vercel-labs': {
+    source: 'https://github.com/vercel-labs/agent-skills',
+    skills: {
+      'web-design-guidelines': 'web-design-guidelines',
+      'react-best-practices': 'react-best-practices',
+    },
+  },
 }
 
 /**

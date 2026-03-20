@@ -20,7 +20,6 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 
 | Skill | Description |
 |-------|-------------|
-| [pinia](skills/pinia) | Pinia official Vue state management library, type-safe and extensible. Use when defining stores, working with state/getters/actions, or implementing store patterns in Vue apps. |
 | [pnpm](skills/pnpm) | Node.js package manager with strict dependency resolution. Use when running pnpm specific commands, configuring workspaces, or managing dependencies with catalogs, patches, or overrides. |
 | [unocss](skills/unocss) | UnoCSS instant atomic CSS engine, superset of Tailwind CSS. Use when configuring UnoCSS, writing utility rules, shortcuts, or working with presets like Wind, Icons, Attributify. |
 | [vite](skills/vite) | Vite build tool configuration, plugin API, SSR, and Vite 8 Rolldown migration. Use when working with Vite projects, vite.config.ts, Vite plugins, or building libraries/SSR apps with Vite. |
@@ -31,3 +30,6 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 | [vue-router-best-practices](skills/vue-router-best-practices) | Vue Router 4 patterns, navigation guards, route params, and route-component lifecycle interactions. |
 | [vue-testing-best-practices](skills/vue-testing-best-practices) | Use for Vue.js testing. Covers Vitest, Vue Test Utils, component testing, mocking, testing patterns, and Playwright for E2E testing. |
 | [vueuse-functions](skills/vueuse-functions) | Apply VueUse composables where appropriate to build concise, maintainable Vue.js / Nuxt features. |
+| [react-best-practices](skills/react-best-practices) | React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. |
+| [pinia](skills/pinia) | Pinia official Vue state management library, type-safe and extensible. Use when defining stores, working with state/getters/actions, or implementing store patterns in Vue apps. |
+| [web-design-guidelines](skills/web-design-guidelines) | Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices". |
