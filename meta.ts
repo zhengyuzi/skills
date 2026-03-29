@@ -47,6 +47,13 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'react-best-practices': 'react-best-practices',
     },
   },
+  'tsdown': {
+    official: true,
+    source: 'https://github.com/rolldown/tsdown',
+    skills: {
+      tsdown: 'tsdown',
+    },
+  },
 }
 
 /**
